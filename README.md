@@ -1,5 +1,5 @@
 
-# Bug Blog
+# Food O Mania
 
 It's a Blogging Web App built with MERN Stack , where users can create their own blogs and can view ans react to other's blog 
 and share there thoughts with each other.
@@ -49,18 +49,13 @@ Fronted - Netlify
 Backend - Heroku
 
   
-## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/Aaditya1978/Bug-Blog.git
-```
 
 Go to the project directory
 
 ```bash
-  cd Bug-Blog
+  cd Food Blog
 ```
 
 Install dependencies for Client And Server
@@ -95,20 +90,7 @@ Start the both server on seprate terminals
 - Like and Comment
 - Secured Encryption of Accounts
 
-  
-## Feedback
-
-If you have any feedback, please reach out to us.
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-  
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+ 
 
   
 # Minor-Project
